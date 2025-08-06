@@ -49,11 +49,12 @@ I want to evolve into a **T-shaped developer**, mastering Full Stack Development
 
 # :link: Links
 <div align="center">
-  <a href="[linkedin.com/in/joão-victor-barbosa-de-carvalho-3334b823b](http://www.linkedin.com/in/jo%C3%A3o-victor-barbosa-de-carvalho-3334b823b)" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-barbosa-de-carvalho-3334b823b/" target="_blank">
     <img src="https://badgen.net/static/Visit%20my/LinkedIn/green">
   </a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=506700&height=120&section=footer"/>
+
 
 
