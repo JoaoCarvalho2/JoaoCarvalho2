@@ -28,7 +28,7 @@ And there’s a lot more to come!
 # 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaocarvalho2&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoCarvalho2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarvalho2&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"  />
 </div>
 
 # 👨‍💼 My career at the moment
@@ -55,6 +55,7 @@ I want to evolve into a **T-shaped developer**, mastering Full Stack Development
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=506700&height=120&section=footer"/>
+
 
 
 
