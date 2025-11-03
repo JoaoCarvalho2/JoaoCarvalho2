@@ -3,15 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Carvalho;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-# | Engenheiro de Software em Formação |
+# | Futuro Engenheiro de Software |
 
 ##  Links 🔗
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-barbosa-de-carvalho-3334b823b/)
 [![gmail](https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorbarbosadecarvalho@outlook.com.br)
 
 ## Sobre mim 👨‍💻
-
-Olá! Sou um desenvolvedor em formação, apaixonado por tecnologia e em constante evolução. Atualmente:
 
 👩‍💻 Trabalho atualmente na Software.com.br como analista de produtos.
 <br/>
@@ -48,3 +46,4 @@ Como um **Analista de Produtos**, eu ajudo meu time configurando, automatizando 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 
 </div>
+
